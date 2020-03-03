@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*",
+    "react-native": "*"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
