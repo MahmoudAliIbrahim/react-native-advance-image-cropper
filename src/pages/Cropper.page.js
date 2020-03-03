@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { ImageEditor, Animated, PanResponder } from 'react-native';
-import RNImageRotate from 'react-native-image-rotate';
 import PropTypes from 'prop-types';
 import { SCREEN_WIDTH, SCREEN_HEIGHT, W, MINIMUM_CROP_AREA, H } from '../components/Cropper/Cropper.constants';
 import Cropper from '../components/Cropper/Cropper.component';
